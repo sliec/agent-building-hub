@@ -325,6 +325,33 @@
 
 ---
 
+## 七、FDE（前沿部署工程师）
+
+FDE = **Forward Deployed Engineer**，2026 年硅谷 AI 圈最火的新职业方向。核心使命是把 AI 从实验室搬到真实业务场景落地——充当顾问、工程师和产品经理三合一的「跨界翻译者」。
+
+灵感来源于 Palantir 的 Delta 角色，OpenAI、Anthropic、Scale AI 等公司都在大量招聘 FDE。
+
+### 学习资源
+
+| # | 项目 | Stars | 说明 |
+|---|------|-------|------|
+| 1 | [Awesome-FDE-Roadmap](https://github.com/pierpaolo28/Awesome-FDE-Roadmap) | 666 | 最全面的 FDE 路线图：AI Agents + 企业数据架构 + 战略咨询 |
+| 2 | [FDEOps](https://github.com/suboss87/FDEOps) | 241 | FDE 第二大脑：6 大领域 35 项技能，配合 AI coding agent 使用 |
+| 3 | [Awesome-FDE](https://github.com/libaice/Awesome-FDE) | 92 | FDE 资源/公司/技能精选列表 |
+| 4 | [FDE Material](https://github.com/weissmanntobi-del/Forward_Deployed_Engineer_Material) | 44 | FDE 实战材料合集 |
+| 5 | [前线部署工程指南](https://github.com/yeasy/forward_deployed_engineering_guide) | 34 | 中文最佳实践指南 |
+| 6 | [OpenFDE](https://github.com/OpenFDEAI/OpenFDE) | 25 | FDE 开放知识社区，配套网站 open-fde.com |
+| 7 | [FDE Book](https://github.com/dawei008/fde-book) | 15 | OpenBook Vol II：FDE 落地工程学 |
+| 8 | [learn-ai](https://github.com/itshen/learn-ai) | 123 | AI 产品经理培训：大模型原理 → 上下文工程 → Agent 设计 → 成本优化，41 页交互式幻灯片 |
+
+### FDE 核心能力模型
+
+
+
+**推荐学习顺序**：Awesome-FDE-Roadmap（看全景）→ FDEOps（建技能框架）→ learn-ai（补 AI 工程化基础）→ FDE Book + 实战材料（深入落地）
+
+---
+
 ## 相关项目
 
 | 项目 | 说明 |
