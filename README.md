@@ -322,3 +322,18 @@
 ---
 
 *持续更新中，欢迎提交 PR 补充优质资源！*
+
+---
+
+## 相关项目
+
+| 项目 | 说明 |
+|---|---|
+| [shared-files](https://github.com/sliec/shared-files) | 20 个 Agent Skills 同步中心，一行命令全平台拉齐 |
+| [sliec.github.io](https://sliec.github.io/) | 个人技术博客与资源导航 |
+
+---
+
+<p align="center">
+  <sub>Star 数为整理时的近似值，以 GitHub 实时数据为准</sub>
+</p>
